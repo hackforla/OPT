@@ -1,7 +1,13 @@
+# OPT Opportunity
+
+Looking for a post-completion OPT volunteer opportunity?
+
+
 ## Current OPT volunteering Opportunnities
 updated 2025-03-05
 
-### Product Manager Guides team
+### Guides team
+- Two open roles for Product Managers 
 
 #### If you are interested in this OPT opportunity (Product Manager Guides team), please read:
 - [Guides Team: OPT Eligibility Requirements and Recruitment Process](https://github.com/hackforla/guides/wiki/Guides-Team:-OPT-Eligibility-Requirements-and-Recruitment-Process) to see if you qualify.

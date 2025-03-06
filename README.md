@@ -27,7 +27,7 @@ If you do not get one of the two interview slots for this week (in the link abov
 ### Questions
 If you have questions that these links do not answer
 - and you meet all the qualifications: you can book an appointment and discuss your questions with us during your interview, or you can email them in advance to admin-team@hackforla.org.  
-- if you do not qualify, please understand we don't have the staff available to answer any additional questions at this time.  
+- if you do not qualify, and you are visiting this page via a link provided by your school, please direct your questions to your school, and they may contact us if they can't answer your questions.
 
 ---
 <img src="https://github.com/user-attachments/assets/fe0760ab-022a-45dd-8ff3-167853aaaaab" width=100px>
